@@ -1,0 +1,5 @@
+﻿  game_main.cpp
+c:\users\miyake\desktop\8.17start\dxstartup\program\support\vec3.h(167): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+c:\users\miyake\desktop\8.17start\dxstartup\program\game\enemy.h(22): warning C4244: '引数': 'int' から 'const float' への変換です。データが失われる可能性があります。
+  dx_game.vcxproj -> C:\Users\miyake\Desktop\8.17start\DxStartUp\Debug\dx_game.exe
+  dx_game.vcxproj -> C:\Users\miyake\Desktop\8.17start\DxStartUp\Debug\dx_game.pdb (Full PDB)
